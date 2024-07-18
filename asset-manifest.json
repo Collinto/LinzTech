@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/LinzTech/static/css/main.dd402c31.css",
+    "main.js": "/LinzTech/static/js/main.7641fc1f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/LinzTech/static/js/787.28cb0dcd.chunk.js",
+    "static/media/hero1.jpg": "/LinzTech/static/media/hero1.6949812ae1bb467760ef.jpg",
+    "static/media/about.png": "/LinzTech/static/media/about.ae79f7c4ba002987bed7.png",
+    "static/media/program-3.png": "/LinzTech/static/media/program-3.73a816ab56c0a6e457d6.png",
+    "static/media/program-1.png": "/LinzTech/static/media/program-1.a77b437944c963838cea.png",
+    "static/media/program-2.png": "/LinzTech/static/media/program-2.72b615ee1f3e9b493416.png",
+    "static/media/video.mp4": "/LinzTech/static/media/video.6c1177245231e66c3e9b.mp4",
+    "static/media/gallery-3.png": "/LinzTech/static/media/gallery-3.cc599987b9e13cee8fcc.png",
+    "static/media/gallery-4.png": "/LinzTech/static/media/gallery-4.2d4f350efbdf6fc200a8.png",
+    "static/media/gallery-1.png": "/LinzTech/static/media/gallery-1.901e63cc3af8b9273073.png",
+    "static/media/gallery-2.png": "/LinzTech/static/media/gallery-2.cb423b37437ac0ff6f31.png",
+    "static/media/user-2.png": "/LinzTech/static/media/user-2.b22c59baa927c1be0d2e.png",
+    "static/media/user-3.png": "/LinzTech/static/media/user-3.12915e16ed909bbd9b48.png",
+    "static/media/user-4.png": "/LinzTech/static/media/user-4.50ce69a0306667eba2c1.png",
+    "static/media/user-1.png": "/LinzTech/static/media/user-1.1f46bb883fe387830efd.png",
+    "index.html": "/LinzTech/index.html",
+    "main.dd402c31.css.map": "/LinzTech/static/css/main.dd402c31.css.map",
+    "main.7641fc1f.js.map": "/LinzTech/static/js/main.7641fc1f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/LinzTech/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd402c31.css",
+    "static/js/main.7641fc1f.js"
+  ]
+}
